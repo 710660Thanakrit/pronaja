@@ -1,6 +1,6 @@
 {
-    "name": "shopchill",
-    "short_name": "shopchill",
+    "name": "GaneShop",
+    "short_name": "GaneShop",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
